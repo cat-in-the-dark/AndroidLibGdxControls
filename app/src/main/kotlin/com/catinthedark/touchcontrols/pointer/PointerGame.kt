@@ -1,4 +1,4 @@
-package com.catinthedark.touchcontrols
+package com.catinthedark.touchcontrols.pointer
 
 import android.util.Log
 import com.badlogic.gdx.Game
