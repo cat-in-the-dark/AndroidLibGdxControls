@@ -1,4 +1,4 @@
-package com.catinthedark.com.catinthedark.touchcontrols
+package com.catinthedark.touchcontrols
 
 import android.content.Context
 import android.content.Intent

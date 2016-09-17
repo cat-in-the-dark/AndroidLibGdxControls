@@ -10,7 +10,7 @@
         android:theme="@style/AppTheme">
         <activity android:name=".pointer.PointerActivity" />
         <activity android:name=".pointer.KnobActivity" />
-        <activity android:name="com.catinthedark.com.catinthedark.touchcontrols.MainActivity">
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
